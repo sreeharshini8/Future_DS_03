@@ -54,6 +54,7 @@ This project focuses on analyzing marketing funnel data to understand customer c
 - Contact Method Analysis
 - Campaign Performance Analysis
 - Conversion Distribution Overview
+<img width="1576" height="865" alt="dashboard" src="https://github.com/user-attachments/assets/ac4cd62a-74c4-4ea3-9341-7a839f0ae4e4" />
 
 ---
 
